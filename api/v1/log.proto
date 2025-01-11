@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package log.v1;
+
+option go_package = "github.com/skylinec/proglog/api/log_v1"
